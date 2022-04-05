@@ -1,5 +1,5 @@
 # React-ReduxProjects
 
-Projects based on Redux
+Projects based on Redux, can be cloned and ran directly
 - React-Redux
 - Redux-Toolkit
