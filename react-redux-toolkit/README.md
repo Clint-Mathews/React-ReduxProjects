@@ -10,7 +10,7 @@ Redux sample functionality using redux-toolkit
  
  - Firebase project with realtime database url configured
  - Redux-Toolkit
- - ENV file is needed values
+ - ENV file is needed with values 
  - REACT_APP_USERNAME=Admin
  - REACT_APP_PASSWORD=pass
  - REACT_APP_FIREBASE_URL= "realtime-firebase-database-url"
