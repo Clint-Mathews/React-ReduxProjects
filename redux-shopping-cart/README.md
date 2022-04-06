@@ -1,6 +1,6 @@
 # React-redux-toolkit
 
-Redux sample functionality using redux-toolkit
+Redux shopping cart using firebase and redux-toolkit
 
 ## To Run the app
 - npm i
