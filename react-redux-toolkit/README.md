@@ -3,5 +3,5 @@
 Redux sample functionality using redux-toolkit
 
 To Run the app
--npm i
--npm start
+- npm i
+- npm start
