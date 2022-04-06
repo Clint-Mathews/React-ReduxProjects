@@ -8,7 +8,7 @@ Redux sample functionality using redux-toolkit
 
  ## Technical Dependencies:
  
- - Firebase project with realtime database configured
+ - Firebase project with realtime database url configured
  - Redux-Toolkit
  - ENV file is needed values
  - REACT_APP_USERNAME=Admin
